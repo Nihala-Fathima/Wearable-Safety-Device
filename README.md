@@ -22,7 +22,8 @@ Buzzer
 
 Push Button (SOS Trigger)
 
-Vibration Motor
+On and Off Button
+
 
 🚀 Key Features
 📍 Live GPS Tracking
@@ -31,7 +32,7 @@ Vibration Motor
 
 📞 Auto-Call Trigger During Emergency
 
-🔔 Buzzer and Vibration Feedback
+🔔 Buzzer  Feedback
 
 ❤️ Heart Rate Monitoring with Emergency Trigger on Abnormal BPM
 
